@@ -9,7 +9,7 @@ After starting the program is running as it's showed here:
 Program is running...(Type 'quit' to exit)
 > 
 ```
-If you finish your work, type quit and then save it from cmd for example:
+If you finish your work, type quit and then save it with command:
 ```
 python tracker.py save
 ```
