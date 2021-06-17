@@ -17,8 +17,8 @@ It will make an excel file in path which is defined in the source code and it'll
 
 | 16.06.21 - 17:38:36  |  |
 | ------------- | ------------- |
-| File Explorer  | 0:00:11  |
 | Brave  | 0:01:19  |
+| File Explorer  | 0:00:11  |
 | Google Chrome  | 0:00:06  |
 | Untitled - Notepad  | 0:00:02  |
 
